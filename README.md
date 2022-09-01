@@ -7,6 +7,7 @@ This is the implementation of the CCRAL method in the paper "Efficient Classific
 3. scikit-learn 0.23
 
 # How to run
+Run each command in the file "run.bat"
 
 # Reference
 Azhar Mohammed, Dang Nguyen, Bao Duong, Thin Nguyen (2022). Efficient Classification with Counterfactual Reasoning and Active Learning. https://arxiv.org/abs/2207.12086
